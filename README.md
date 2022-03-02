@@ -1,16 +1,18 @@
 # 2022 Projektõpe Infosüsteemi analüüs
 Tarkvara/andmete analüüs projektõpe 2022.
 
-Kristo Tänak
+# LIIKMED
 
-Markus Timofejev
+(1) Kristo Tänak
 
-Airi Zenkevics
+(2) Markus Timofejev
 
-Olavi Allik
+(3) Airi Zenkevics
 
-Ragnar Lall
+(4) Olavi Allik
 
-Erik Leemet
+(5) Ragnar Lall
+
+(6) Erik Leemet
 
 # Riistvara rentimise tarkvara
