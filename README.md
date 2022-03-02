@@ -16,3 +16,5 @@ Tarkvara/andmete analüüs projektõpe 2022.
 (6) Erik Leemet
 
 # Riistvara rentimise tarkvara
+
+Infosüsteem mida analüüsisime oli veebisait kus on võimalik riistvara (hiiri, arvuteid, monitore, protsessoreid, jne...) rentida. Infosüsteemi ideega tuli välja Olavi.
