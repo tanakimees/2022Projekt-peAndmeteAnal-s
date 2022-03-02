@@ -1,4 +1,4 @@
-# 2022 Projektõpe Infosüsteemi analüüs
+# 2022 PROJEKTÕPE INFOSÜSTEEMI ANALÜÜS
 Tarkvara/andmete analüüs projektõpe 2022.
 
 # LIIKMED
@@ -15,6 +15,18 @@ Tarkvara/andmete analüüs projektõpe 2022.
 
 (6) Erik Leemet
 
-# Riistvara rentimise tarkvara
+# RIISTVARA RENTIMISE VEEBILEHT
 
 Infosüsteem mida analüüsisime oli veebisait kus on võimalik riistvara (hiiri, arvuteid, monitore, protsessoreid, jne...) rentida. Infosüsteemi ideega tuli välja Olavi.
+
+# TÖÖKÄIK
+
+(1) Arutasime, mis infosüsteemi analüüsida.
+
+(2) Joonistasime tahvli peale detailse joonistuse kasutaja kogemusest.
+
+(3) Tegime "sisesta veebilehe nimi siia kuna see unus mul ära" veebilehel valmis boardi, kus oli kirjas detailselt arendaja töökäik ja ülesanded.
+
+(4) Tegime valmis Githubi repo koos readmega.
+
+# KÜSIMUSED JA VASTUSED
