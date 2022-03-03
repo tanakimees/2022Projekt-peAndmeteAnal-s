@@ -48,3 +48,31 @@ KASUTAJA
 **Ragnar Lall** - 
 
 **Erik Leemet** - 
+
+**(2) ÜKS PEHME OSKUS, MIDA ÕPPISIN JA ENDAS ARENDASIN**
+
+**Kristo Tänak** - 
+
+**Markus Timofejev** - 
+
+**Airi Zenkevics** - 
+
+**Olavi Allik** - 
+
+**Ragnar Lall** - 
+
+**Erik Leemet** -
+
+**(3) ÜKS TEHNILINE OSKUS, MIDA ÕPPISIN JA ENDAS ARENDASIN**
+
+**Kristo Tänak** - 
+
+**Markus Timofejev** - 
+
+**Airi Zenkevics** - 
+
+**Olavi Allik** - 
+
+**Ragnar Lall** - 
+
+**Erik Leemet** -
