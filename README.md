@@ -36,4 +36,5 @@ KASUTAJA
 # KÜSIMUSED JA VASTUSED
 
 KUIDAS RAKENDAD SELLES PROJEKTIS ÕPITUT JÄRGMISTES ARENDUSPROJEKTIDES?
-- Kristo Tänak        Hakkan rohkem tegelema probleemide jaotusega arendajate jaoks.
+- Kristo Tänak
+Hakkan rohkem tegelema probleemide jaotusega arendajate jaoks.
