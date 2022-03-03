@@ -80,3 +80,19 @@ KASUTAJA
 **Ragnar Lall** - 
 
 **Erik Leemet** -
+
+# DOKUMENTATSIOON
+- Alustasime sellega, et mõtlesime mis tarkvara analüüsiksime.
+- Varjanditeks olid riistvara rentimise tarkvara, väikepoodide lao tarkvara ja Bayraktar TB-2 sõjaväe drooni tarkvara.
+- Valisime riistvara rentimise tarkvara.
+- Joonistasime tahvlile tarvaraanalüüsi diagrammi.
+- Alustasime jira's boardi tegemist.
+- Boardile kirjutasime ära kõik asjad mida teha on vaja.
+- Tegime Github readme valmis.
+- Tegime Figma's vaated valmis.
+
+# LINGID
+
+https://ametikooliprojekt.atlassian.net/jira/software/projects/REN/boards/1
+
+https://www.figma.com/file/BO8Oi3JGl8qHNhJlbflU9A/Untitled?node-id=0%3A1
