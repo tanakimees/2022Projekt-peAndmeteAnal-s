@@ -1,7 +1,7 @@
 # 2022 PROJEKTÕPE INFOSÜSTEEMI ANALÜÜS
 Tarkvara/andmete analüüs projektõpe 2022.
 
-# LIIKMED
+LIIKMED
 - Kristo Tänak
 - Markus Timofejev
 - Airi Zenkevics
