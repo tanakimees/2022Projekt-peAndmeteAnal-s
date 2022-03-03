@@ -1,5 +1,6 @@
 # 2022 PROJEKTÕPE INFOSÜSTEEMI ANALÜÜS
 - Tarkvara/andmete analüüs projektõpe 2022.
+- Infosüsteemi analüüsi eesmärk on õppida/arendada projektide analüüsimist ning arendajatele jagada tööeesmärke.
 
 # LIIKMED
 - Kristo Tänak
