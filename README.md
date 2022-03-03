@@ -13,7 +13,7 @@
 # MEIE INFOSÜSTEEM
 - Meie infosüsteemiks on riistvara rentimise veebileht
 - Infosüsteemi idee peale tuli Olavi Allik.
-- Veebilehel on võimalik riistvara (VR headsete, arvuteid, hiiri, klaviatuure, emaplaate, jne...) rentida.
+- Veebilehel on võimalik riistvara (VR headset'e, arvuteid, hiiri, klaviatuure, emaplaate, jne...) rentida.
 
 # ROLLID
 
@@ -28,12 +28,9 @@ KASUTAJA
 
 # TÖÖKÄIK
 
-(1) Arutasime, mis infosüsteemi analüüsida.
-
-(2) Joonistasime tahvli peale detailse joonistuse kasutaja kogemusest.
-
-(3) Tegime "sisesta veebilehe nimi siia kuna see unus mul ära" veebilehel valmis boardi, kus oli kirjas detailselt arendaja töökäik ja ülesanded.
-
-(4) Tegime valmis Githubi repo koos readmega.
+- Arutasime, mis infosüsteemi analüüsida.
+- Joonistasime tahvli peale detailse joonistuse kasutaja ja admini kogemusest.
+- Tegime Jira's valmis boardi, kus oli kirjas detailselt arendaja töökäik ja ülesanded
+- Tegime valmis Githubi repo koos readmega.
 
 # KÜSIMUSED JA VASTUSED
