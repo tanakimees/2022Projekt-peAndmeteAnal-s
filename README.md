@@ -77,7 +77,7 @@ KASUTAJA
 
 **Olavi Allik** - 
 
-**Ragnar Lall** - 
+**Ragnar Lall** - JIRA issude loomine ning andmemudeli koostamine
 
 **Erik Leemet** -
 
