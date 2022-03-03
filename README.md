@@ -17,7 +17,15 @@ Tarkvara/andmete analüüs projektõpe 2022.
 
 # RIISTVARA RENTIMISE VEEBILEHT
 
-Infosüsteem mida analüüsisime oli veebisait kus on võimalik riistvara (hiiri, arvuteid, monitore, protsessoreid, jne...) rentida. Infosüsteemi ideega tuli välja Olavi.
+Infosüsteem mida analüüsisime oli veebisait kus on võimalik riistvara (hiiri, arvuteid, monitore, protsessoreid, jne...) rentida. Infosüsteemi ideega tuli välja Olavi. 
+
+# ROLLID
+
+(1) ADMIN
+
+- Saab veebilehel kustutada kommentaare.
+- Saab veebilehel kustutada kasutajaid.
+- Saab veebilehel kustutada tooteid.
 
 # TÖÖKÄIK
 
