@@ -10,10 +10,10 @@
 - Ragnar Lall
 - Erik Leemet
 
-# RIISTVARA RENTIMISE VEEBILEHT
-
-Infosüsteem mida analüüsisime oli veebisait kus on võimalik riistvara (hiiri, arvuteid, monitore, protsessoreid, jne...) rentida. Infosüsteemi ideega tuli välja Olavi. 
-
+# MEIE INFOSÜSTEEM
+- Meie infosüsteemiks on riistvara rentimise veebileht
+- Infosüsteemi idee peale tuli Olavi Allik.
+- Veebilehel on võimalik riistvara (VR headsete, arvuteid, hiiri, klaviatuure, emaplaate, jne...) rentida.
 # ROLLID
 
 ADMIN
