@@ -39,7 +39,7 @@ KASUTAJA
 
 **Kristo Tänak** - Hakkan rohkem tegelema probleemide jaotusega arendajate jaoks.
 
-**Markus Timofejev** - 
+**Markus Timofejev** - Teen enne arendamist valmis Jira-s kogu plaani, mille järgi hakkan arendama.
 
 **Airi Zenkevics** - Mõtlen ja selgitan oma mõtteid ja plaane põhjalikumalt ja nii et teised ka aru saavad mida täpselt silmas pean.
 
@@ -55,7 +55,7 @@ KASUTAJA
 
 **Kristo Tänak** - 
 
-**Markus Timofejev** - 
+**Markus Timofejev** - Kuulamisoskus
 
 **Airi Zenkevics** - Meeskonnatöö.
 
@@ -71,7 +71,7 @@ KASUTAJA
 
 **Kristo Tänak** - 
 
-**Markus Timofejev** - 
+**Markus Timofejev** - Tutvusin Jira-ga
 
 **Airi Zenkevics** - Tutvusin Jira-ga.
 
