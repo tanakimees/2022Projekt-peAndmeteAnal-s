@@ -34,3 +34,6 @@ KASUTAJA
 - Tegime valmis Githubi repo koos readmega.
 
 # KÜSIMUSED JA VASTUSED
+
+KUIDAS RAKENDAD SELLES PROJEKTIS ÕPITUT JÄRGMISTES ARENDUSPROJEKTIDES?
+- Kristo Tänak        Hakkan rohkem tegelema probleemide jaotusega arendajate jaoks.
