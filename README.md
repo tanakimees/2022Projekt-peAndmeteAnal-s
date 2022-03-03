@@ -1,5 +1,5 @@
 # 2022 PROJEKTÕPE INFOSÜSTEEMI ANALÜÜS
-Tarkvara/andmete analüüs projektõpe 2022.
+- Tarkvara/andmete analüüs projektõpe 2022.
 
 # LIIKMED
 - Kristo Tänak
