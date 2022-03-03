@@ -53,7 +53,7 @@ KASUTAJA
 
 **(2) ÜKS PEHME OSKUS, MIDA ÕPPISIN JA ENDAS ARENDASIN**
 
-**Kristo Tänak** - 
+**Kristo Tänak** - Kommunikatsioon.
 
 **Markus Timofejev** - Kuulamisoskus
 
@@ -69,7 +69,7 @@ KASUTAJA
 
 **(3) ÜKS TEHNILINE OSKUS, MIDA ÕPPISIN JA ENDAS ARENDASIN**
 
-**Kristo Tänak** - 
+**Kristo Tänak** - Õppisin kasutama Jira't.
 
 **Markus Timofejev** - Tutvusin Jira-ga
 
