@@ -61,7 +61,7 @@ KASUTAJA
 
 **Olavi Allik** - 
 
-**Ragnar Lall** - 
+**Ragnar Lall** - Analüüsivõime
 
 **Erik Leemet** -
 
