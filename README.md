@@ -21,8 +21,7 @@ Infosüsteem mida analüüsisime oli veebisait kus on võimalik riistvara (hiiri
 
 # ROLLID
 
-(1) ADMIN
-
+ADMIN
 - Saab veebilehel kustutada kommentaare.
 - Saab veebilehel kustutada kasutajaid.
 - Saab veebilehel kustutada tooteid.
