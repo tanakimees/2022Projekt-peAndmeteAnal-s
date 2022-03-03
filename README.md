@@ -22,6 +22,10 @@ ADMIN
 - Saab veebilehel kustutada kasutajaid.
 - Saab veebilehel kustutada tooteid.
 
+KASUTAJA
+- Saab veebilehel rentida teiste kasutajate riistvara.
+- Saab veebilehel panna rendile oma riistvara.
+
 # TÖÖKÄIK
 
 (1) Arutasime, mis infosüsteemi analüüsida.
