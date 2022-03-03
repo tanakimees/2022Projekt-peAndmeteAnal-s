@@ -14,6 +14,7 @@
 - Meie infosüsteemiks on riistvara rentimise veebileht
 - Infosüsteemi idee peale tuli Olavi Allik.
 - Veebilehel on võimalik riistvara (VR headsete, arvuteid, hiiri, klaviatuure, emaplaate, jne...) rentida.
+
 # ROLLID
 
 ADMIN
