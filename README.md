@@ -41,7 +41,7 @@ KASUTAJA
 
 **Markus Timofejev** - 
 
-**Airi Zenkevics** - 
+**Airi Zenkevics** - Mõtlen ja selgitan oma mõtteid ja plaane põhjalikumalt ja nii et teised ka aru saavad mida täpselt silmas pean.
 
 **Olavi Allik** - 
 
@@ -57,7 +57,7 @@ KASUTAJA
 
 **Markus Timofejev** - 
 
-**Airi Zenkevics** - 
+**Airi Zenkevics** - Meeskonnatöö.
 
 **Olavi Allik** - 
 
@@ -73,7 +73,7 @@ KASUTAJA
 
 **Markus Timofejev** - 
 
-**Airi Zenkevics** - 
+**Airi Zenkevics** - Tutvusin Jira-ga.
 
 **Olavi Allik** - 
 
