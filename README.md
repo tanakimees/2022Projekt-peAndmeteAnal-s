@@ -83,7 +83,7 @@ KASUTAJA
 
 # DOKUMENTATSIOON
 - Alustasime sellega, et mõtlesime mis tarkvara analüüsiksime.
-- Varjanditeks olid riistvara rentimise tarkvara, väikepoodide lao tarkvara ja Bayraktar TB-2 sõjaväe drooni tarkvara.
+- Varianditeks olid riistvara rentimise tarkvara, väikepoodide lao tarkvara ja Bayraktar TB-2 sõjaväe drooni tarkvara.
 - Valisime riistvara rentimise tarkvara.
 - Joonistasime tahvlile tarvaraanalüüsi diagrammi.
 - Alustasime jira's boardi tegemist.
