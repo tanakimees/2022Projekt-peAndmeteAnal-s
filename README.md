@@ -35,6 +35,16 @@ KASUTAJA
 
 # KÜSIMUSED JA VASTUSED
 
-KUIDAS RAKENDAD SELLES PROJEKTIS ÕPITUT JÄRGMISTES ARENDUSPROJEKTIDES?
-**Kristo Tänak**
-Hakkan rohkem tegelema probleemide jaotusega arendajate jaoks.
+**(1) KUIDAS RAKENDAD SELLES PROJEKTIS ÕPITUT JÄRGMISTES ARENDUSPROJEKTIDES?**
+
+**Kristo Tänak** - Hakkan rohkem tegelema probleemide jaotusega arendajate jaoks.
+
+**Markus Timofejev** - 
+
+**Airi Zenkevics** - 
+
+**Olavi Allik** - 
+
+**Ragnar Lall** - 
+
+**Erik Leemet** - 
