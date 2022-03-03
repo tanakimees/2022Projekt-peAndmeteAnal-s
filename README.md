@@ -32,6 +32,7 @@ KASUTAJA
 - Joonistasime tahvli peale detailse joonistuse kasutaja ja admini kogemusest.
 - Tegime Jira's valmis boardi, kus oli kirjas detailselt arendaja töökäik ja ülesanded
 - Tegime valmis Githubi repo koos readmega.
+- Tegime Figmas wireframe'i ning igale lehele eraldi lühikirjelduse.
 
 # KÜSIMUSED JA VASTUSED
 
@@ -83,7 +84,7 @@ KASUTAJA
 
 # DOKUMENTATSIOON
 - Alustasime sellega, et mõtlesime mis tarkvara analüüsiksime.
-- Varianditeks olid riistvara rentimise tarkvara, väikepoodide lao tarkvara ja Bayraktar TB-2 sõjaväe drooni tarkvara.
+- Varjanditeks olid riistvara rentimise tarkvara, väikepoodide lao tarkvara ja Bayraktar TB-2 sõjaväe drooni tarkvara.
 - Valisime riistvara rentimise tarkvara.
 - Joonistasime tahvlile tarvaraanalüüsi diagrammi.
 - Alustasime jira's boardi tegemist.
