@@ -2,8 +2,12 @@
 Tarkvara/andmete analüüs projektõpe 2022.
 
 # LIIKMED
-
-(1) Kristo Tänak
+- Kristo Tänak
+- Markus Timofejev
+- Airi Zenkevics
+- Olavi Allik
+- Ragnar Lall
+- Erik Leemet
 
 (2) Markus Timofejev
 
