@@ -49,6 +49,8 @@ KASUTAJA
 
 **Erik Leemet** - 
 
+-----------------------------------------------------------------------
+
 **(2) ÜKS PEHME OSKUS, MIDA ÕPPISIN JA ENDAS ARENDASIN**
 
 **Kristo Tänak** - 
@@ -62,6 +64,8 @@ KASUTAJA
 **Ragnar Lall** - 
 
 **Erik Leemet** -
+
+-----------------------------------------------------------------------
 
 **(3) ÜKS TEHNILINE OSKUS, MIDA ÕPPISIN JA ENDAS ARENDASIN**
 
