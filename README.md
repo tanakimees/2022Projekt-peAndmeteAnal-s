@@ -44,7 +44,7 @@ KASUTAJA
 
 **Airi Zenkevics** - Mõtlen ja selgitan oma mõtteid ja plaane põhjalikumalt ja nii et teised ka aru saavad mida täpselt silmas pean.
 
-**Olavi Allik** - 
+**Olavi Allik** -  Vajutan teistele tiimi liikmetele vajutama nina peale. 
 
 **Ragnar Lall** - 
 
@@ -60,7 +60,7 @@ KASUTAJA
 
 **Airi Zenkevics** - Meeskonnatöö.
 
-**Olavi Allik** - 
+**Olavi Allik** - Tööde jaotus
 
 **Ragnar Lall** - Analüüsivõime
 
@@ -76,7 +76,7 @@ KASUTAJA
 
 **Airi Zenkevics** - Tutvusin Jira-ga.
 
-**Olavi Allik** - 
+**Olavi Allik** - Jira ja analüüside tegemine
 
 **Ragnar Lall** - JIRA issude loomine ning andmemudeli koostamine
 
@@ -91,6 +91,7 @@ KASUTAJA
 - Boardile kirjutasime ära kõik asjad mida teha on vaja.
 - Tegime Github readme valmis.
 - Tegime Figma's vaated valmis.
+- Tegime paberil reaalselt teekonna läbi
 
 # LINGID
 
